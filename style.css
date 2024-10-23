@@ -44,7 +44,9 @@ header {
 nav a:hover {
     text-decoration: underline;
     transform: scale(0.90);
-    transition: transform 0.1s;
+    transition: transform 0.1s;.grafico {
+        margin-top: 3rem;
+    }
 }
 
 footer {
